@@ -8,11 +8,13 @@ To write a program to predict car prices using a linear regression model and tes
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
-
+1. Import libraries and read the car price dataset.
+2. Define features (X) and target price (Y).
+3. Split data into train/test and scale the features.
+4. Train the Linear Regression model.
+5. Predict test results and evaluate using MSE, RMSE, MAE, and R².
+6. Plot graphs to verify linearity, independence, homoscedasticity, and normality.
+   
 ## Program:
 ```
 /*
